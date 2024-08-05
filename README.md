@@ -115,5 +115,11 @@ CODE:-
 
 
 OUTPUT :-<br>
-1).
+1).<br>
 ![exp7](https://github.com/VandanGupte101727/CDS-experiment-7/blob/main/Screenshot%202024-08-05%20at%2011.28.24%20PM.png)
+2).<br>
+![exp7](https://github.com/VandanGupte101727/CDS-experiment-7/blob/main/Screenshot%202024-08-05%20at%2011.28.24%20PM.png)
+
+
+
+Conclusion:- in this experiment we learnt how to print an array ,take user input of array, reverse it , search an element in it and find max ,min ,sum and average of the elements if the array<br>
