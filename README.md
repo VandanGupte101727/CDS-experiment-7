@@ -39,7 +39,7 @@ CODE:-
 2).taking input of array from the user,reverse the array,searching the element in the array,finding max and min in the array and finding the sum and avg of the array<br> 
     
     #include <iostream>
-
+    #include <climits>
     using namespace std;
 
     int main() {
