@@ -112,3 +112,8 @@ CODE:-
 
     return 0;
     }
+
+
+OUTPUT :-<br>
+1).
+![exp7](https://github.com/VandanGupte101727/CDS-experiment-7/blob/main/Screenshot%202024-08-05%20at%2011.28.24%20PM.png>
