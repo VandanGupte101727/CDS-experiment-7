@@ -12,8 +12,8 @@ Character arrays ({char arr[]}) or the Standard Library's std::string class can 
 CODE:-
 1).<br>
 
-    #include<iostream><br>
-    using namespace std;<br>
+    #include<iostream>
+    using namespace std;
 
     int main() {
     int array1[5] = {19, 10, 18, 17, 9};
