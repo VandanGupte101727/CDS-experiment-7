@@ -178,6 +178,8 @@ OUTPUT :-<br>
 ![exp7](https://github.com/VandanGupte101727/CDS-experiment-7/blob/main/Screenshot%202024-08-05%20at%2011.28.24%20PM.png)<br>
 2).<br>
 ![exp7](https://github.com/VandanGupte101727/CDS-experiment-7/blob/main/Screenshot%202024-08-05%20at%2011.29.04%20PM.png)<br>
+3).<br>
+1[exp7](https://github.com/VandanGupte101727/CDS-experiment-7/blob/main/Screenshot%202024-08-11%20at%202.21.16%20PM.png)<br>
 
 
 
