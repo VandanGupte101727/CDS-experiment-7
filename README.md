@@ -183,4 +183,5 @@ OUTPUT :-<br>
 
 
 
-Conclusion:- in this experiment we learnt how to print an array ,take user input of array, reverse it , search an element in it and find max ,min ,sum and average of the elements if the array<br>
+Conclusion:- 1).in this experiment we learnt how to print an array ,take user input of array, reverse it , search an element in it and find max ,min ,sum and average of the elements if the array<br>
+2). in this experiment we also learnt to perform the basic operations on strings like:- printing a string, concatenation of string, printing the string in reverse and checking if the string is a palindrome or not<br>
